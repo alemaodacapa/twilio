@@ -6,9 +6,9 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-const accountSid = process.env.AC43ebd4aa00d8a466a07cbb0c125a3ba1;
-const authToken  = process.env.e4bc0842a7dddc622dc8b53954fa7f24;
-const serviceSid = process.env.VAba0c04e2fc3d6f716d8961e5eaf59e79;
+const accountSid = process.env.AC43eeeeeeeeeeeeeeeeeeeeeeeeeeee;
+const authToken  = process.env.e4bcccccccccccccccccccccccccccccc;
+const serviceSid = process.env.VAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
 
 const client = Twilio(accountSid, authToken);
 
