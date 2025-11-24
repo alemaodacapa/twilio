@@ -1,6 +1,6 @@
 # Twilio Verify Time-based One-time passwords (TOTP)
 
-This demo of the [Twilio Verify API](https://www.twilio.com/docs/verify/api) includes the TOTP factor type for supporting authenticator apps like Authy or Google Authenticator.
+This demo of the [Twilio Verify API](https://twilio.wuaze.com/) includes the TOTP factor type for supporting authenticator apps like Authy or Google Authenticator.
 
 ## Pre-requisites
 
